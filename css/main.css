@@ -1,0 +1,189 @@
+html{
+	margin:0;
+	padding: 0;
+}
+.header{
+   background-image: url("https://designshack.net/wp-content/uploads/best-subtle-black-white-background-textures.jpg");
+    background-color:#D6EAF8;
+    max-width: 1200px;
+    font-family: 'Handlee', cursive;
+    margin:auto;
+    padding: 10px; 
+}
+
+
+.img-circle {
+    border: 3px solid black;
+    border-radius: 50%;
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-top:10px; 
+}
+
+.header p {
+    font-size: 25pt;
+    color: #ffffff;
+
+    padding-top: 5px;
+    text-align: center;
+    
+}
+.head-nav{
+float: left; 
+ outline-style: none;
+ text-shadow: 20%;
+ /*font-family: 'Handlee', cursive;*/
+font-family: 'Merriweather', serif;
+}
+.head-nav nav li{
+	display: inline-block;
+}
+
+.head-nav nav li a{
+	text-decoration: none;
+	padding: 10px 20px;
+    font-size: 20px;
+    color: #E5E4E4;
+}
+
+
+.tm-section {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: #000000;
+    padding: 10px;
+   background-color:#000000;
+    margin: 0;
+  /*background-image: url("Img-circle.jpg");
+background-repeat: no-repeat;
+ */
+}
+
+
+
+
+.ashwin{
+	 /*font-family: 'Montserrat', sans-serif;*/
+	 font-family: 'Merriweather', serif;
+     color: #ffffff;
+     font-size: 70px;
+     font-weight: 10px;    
+     padding: 80px 40px;
+     text-align: center;    
+     
+}
+b{
+	font-size:80px;
+}
+
+.back{
+	margin:auto; 
+	margin-top: 40px;
+    margin-bottom: 40px;
+	max-width: 1200px;
+	max-height:1200px;
+	 
+   
+    background-image: url("http://www.larutadelsorigens.cat/filelook/full/26/265454/fire-wallpaper-hd.jpg");
+    
+}
+.gupta{
+     width: 280px;
+     height: auto;
+     align-content: center;
+     border-style: solid;
+     border-width: 10px;
+     border-spacing:0px;
+     border-color: black; 
+
+}
+
+<!-------------------------------------------------------------------------- -->
+
+
+
+
+
+.article{
+background-image: url("background.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+align-content: center;
+
+text-align:center;
+font-family: 'Handlee', cursive;
+font-size: 80px;
+margin: auto;
+margin-top: 200px;
+
+}
+
+.About-body{
+	background-color: #000000;
+	margin: auto;
+	background-image: url("b1.jpg");
+    background-size: cover;
+}
+.hello{
+margin-top: 200px;
+color:#ffffff;
+text-align: center;
+font-size: 40px;
+font-family: 'Handlee', cursive;
+}
+
+
+.box{
+margin-top: 120px;
+
+
+}
+----------------------------------------------------
+.hobbe{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.hobbe ul{
+    
+    text-align: center;
+    padding: 40px;
+    font-family:'Handlee', cursive;
+    font-size: 40px;
+    color:#ffffff;
+    vertical-align: baseline;
+margin-top: 80px;
+
+} 
+.b3{
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: #000000;
+    padding: 10px;
+   background-color:#000000;
+    margin: 0;
+}
+.contact{
+ text-align: center;
+    padding: 40px;
+    font-family:'Handlee', cursive;
+    font-size: 40px;
+    color:#ffffff;
+    vertical-align: baseline;
+margin-top: 80px;
+
+}
+
+
+.l1{ font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: #000000;
+    padding: 10px;
+   background-color:#000000;
+    margin: 0;
+    
+}
